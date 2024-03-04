@@ -1,0 +1,71 @@
+.Progreso{
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px darkgreen;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    }
+.fondo{
+    background-image: url("GL.jpeg");
+    background-repeat: repeat-y;
+    background-position: center top;
+    }
+.tradiciones{
+    text-align: center;
+    color: darkred;
+  padding: 3px 10px;
+  border: darkred 5px dashed;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+    text-transform: uppercase;
+}
+.cajas{
+  align-items: stretch;
+    display:inline-grid;
+  height: 100px;
+  justify-content: center;
+  width: 200px;
+    text-align: center;
+}
+.primero{
+    background-color: red;
+}
+.segundo{
+    background-color: blue;
+}
+.tercero{
+    background-color: pink;
+}
+
+.Comida{
+    border: 10px outset hotpink;
+    text-align: center;
+    color: red;
+    text-transform: capitalize;
+}
+.prim{
+    background-color: red;
+}
+.seg {
+    background-color: blue;
+}
+.ter{
+    background-color: pink;
+}
+
+.Extenciòn{  
+    color: red;
+    text-decoration: overline underline;
+    text-align: center;
+}
+.MDD{
+    color: blue;
+    text-decoration: overline underline;
+    text-align: center;
+}
+.bandera{
+    color: pink;
+    text-decoration: overline underline;
+    text-align: center;
+}
